@@ -1,5 +1,7 @@
 # monte_carlo
 c_code
+#include "stdafx.h"
+#include <GL/glut.h>
 //int main()
 //{
 	//int k = 1000 , hit =0;
